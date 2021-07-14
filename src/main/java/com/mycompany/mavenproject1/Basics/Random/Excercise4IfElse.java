@@ -27,6 +27,7 @@ public class Excercise4IfElse {
             if (mNum == 1){
                 System.out.println("congratulations, you picked the only number I care about");
             }
+            int arr[] = new int[4];
         }
     }
     

@@ -131,7 +131,12 @@ public class Excercise5Random {
         System.out.println("---------------------");
         CoinFlipper.main(null);
         System.out.println("---------------------");
-        GuessMeMore.main(null);
+        // GuessMeMore.main(null);
+        int count =0 ;
+        for (int i = 0; i< 14; i++){
+            count ++;
+            System.out.println(count);
+        }
         
     }
 }
