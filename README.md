@@ -1,6 +1,11 @@
 # Java Basics
 
 ---
+
+### Refactoring
+[RefactoringSection](src/main/java/com/mycompany/mavenproject1/Basics/ClassesObjects/)
+
+--- 
 ### Hello World
 
 [HelloWorld.java](src/main/java/com/mycompany/mavenproject1/Basics/HelloWorld.java)
