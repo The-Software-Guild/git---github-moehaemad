@@ -1,2 +1,4 @@
 .idea/
 *.iml
+src/main/java/com/mycompany/mavenproject1/Basics/Cumulative/*
+target/*
