@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.Basics.ClassesObjects;
+package com.mycompany.mavenproject1.ClassesObjects;
 
 import java.util.Scanner;
 

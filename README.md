@@ -1,9 +1,12 @@
-# Java Basics
+# Clases and Objects
 
 ---
 
-### Refactoring
-[RefactoringSection](src/main/java/com/mycompany/mavenproject1/Basics/ClassesObjects/)
+### Classes Excercises
+[Classes Excercises](src/main/java/com/mycompany/mavenproject1/ClassesObjects/)
+
+
+# Java Basics
 
 --- 
 ### Hello World
